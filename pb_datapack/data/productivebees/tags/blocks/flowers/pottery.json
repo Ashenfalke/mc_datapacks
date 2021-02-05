@@ -1,0 +1,15 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:clay",
+        "minecraft:clay_ball",
+        "minecraft:terracotta",
+        "minecraft:white_glazed_terracotta",
+        "minecraft:orange_glazed_terracotta",
+        "minecraft:yellow_glazed_terracotta",
+        "minecraft:lime_glazed_terracotta",
+        "minecraft:purple_glazed_terracotta",
+        "minecraft:green_glazed_terracotta",
+        "minecraft:red_glazed_terracotta"
+    ]
+}

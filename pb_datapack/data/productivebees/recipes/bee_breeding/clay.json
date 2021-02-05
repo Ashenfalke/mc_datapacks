@@ -1,0 +1,13 @@
+{
+    "type": "productivebees:bee_breeding",
+    "parent1": "productivebees:slimy_bee",
+    "parent2": "productivebees:ghostly",
+    "offspring": [
+        "productivebees:clay"
+    ],
+    "breeding_items": [
+        {
+            "item": "minecraft:clay_ball"
+        }
+    ]
+}

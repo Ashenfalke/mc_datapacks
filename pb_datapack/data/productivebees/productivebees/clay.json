@@ -1,0 +1,15 @@
+{
+    "primaryColor": "#44a4ca",
+    "secondaryColor": "#babaca",
+    "description": "This bee prefers to cultivate clays. It adores bright pottery.",
+    "createComb": false,
+    "flowerTag": "productivebees:flowers/pottery",
+    "size:": 0.6,
+    "attributes": {
+        "temper": 1,
+        "endurance": 2,
+        "behavior": 1,
+        "productivity": 1,
+        "weather_tolerance": 1
+    }
+}
