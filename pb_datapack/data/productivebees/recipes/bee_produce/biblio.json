@@ -1,12 +1,12 @@
 {
     "type": "productivebees:advanced_beehive",
-    "ingredient": "productivebees:configurable_bee",
-	"bee_type": "productivebees:biblio",
+    "ingredient": "productivebees:biblio",
     "results": [
         {
             "item": {
                 "item": "minecraft:book"
-            }
+            },
+            "chance": 65
         }
     ]
 }

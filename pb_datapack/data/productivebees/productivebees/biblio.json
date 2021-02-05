@@ -1,7 +1,7 @@
 {
     "primaryColor": "#eedc91",
-    "secondaryColor": "#ddc40d",
-    "particleColor": "#eae0c8",
+    "secondaryColor": "#414250",
+    "particleColor": "#744743",
     "description": "Often found reading by the light of a lantern or torch, the Biblio bee loves to read so much that a stack of books can be found in its hive!",
     "createComb": false,
     "flowerTag": "productivebees:flowers/biblio",
