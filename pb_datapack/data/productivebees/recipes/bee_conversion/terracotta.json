@@ -1,6 +1,6 @@
 {
     "type": "productivebees:bee_conversion",
-    "source": "productivebees:slimy",
+    "source": "productivebees:clay",
     "result": "productivebees:terracotta",
     "item": {
         "item": "minecraft:fire_charge"
