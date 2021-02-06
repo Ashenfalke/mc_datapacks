@@ -1,7 +1,7 @@
 {
     "type": "productivebees:bee_breeding",
-    "parent1": "productivebees:slimy_bee",
-    "parent2": "productivebees:ghostly",
+    "parent1": "productivebees:ghostly",
+    "parent2": "productivebees:slimy",
     "offspring": [
         "productivebees:clay"
     ],

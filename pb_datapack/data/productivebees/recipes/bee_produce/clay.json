@@ -4,10 +4,8 @@
     "results": [
         {
             "item": {
-                "item": "minecraft:clay_ball"
-            },
-            "min": 1,
-            "max": 4
+                "item": "productivebees:configurable_honeycomb"
+            }
         }
     ]
 }
