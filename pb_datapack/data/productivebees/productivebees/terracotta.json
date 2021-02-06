@@ -1,0 +1,18 @@
+{
+    "primaryColor": "#dad35c",
+    "secondaryColor": "#2ca3fc",
+    "particleColor": "#babaca",
+    "name": "Patrick Swayzbee",
+    "description": "This fragile bee prefers to cultivate clays. It adores bright pottery.",
+    "createComb": false,
+    "flowerTag": "productivebees:flowers/pottery",
+    "size:": 0.5,
+    "fireproof": true,
+    "attributes": {
+        "temper": 0,
+        "endurance": 0,
+        "behavior": 1,
+        "productivity": 1,
+        "weather_tolerance": 1
+    }
+}
