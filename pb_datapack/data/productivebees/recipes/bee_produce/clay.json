@@ -1,13 +1,12 @@
 {
     "type": "productivebees:advanced_beehive",
-    "ingredient": "productivebees:clay",
+    "ingredient": "productivebees:configurable_bee",
+    "bee_type": "productivebees:clay",
     "results": [
         {
             "item": {
-                "item": "minecraft:clay_ball"
-            },
-            "min": 1,
-            "max": 4
+                "item": "productivebees:configurable_honeycomb"
+            }
         }
     ]
 }

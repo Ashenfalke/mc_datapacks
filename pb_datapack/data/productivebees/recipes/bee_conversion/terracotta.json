@@ -3,6 +3,6 @@
     "source": "productivebees:slimy_bee",
     "result": "productivebees:terracotta",
     "item": {
-        "item": "minecraft:fire_charge"
+        "item": "minecraft:blaze_rod"
     }
 } 

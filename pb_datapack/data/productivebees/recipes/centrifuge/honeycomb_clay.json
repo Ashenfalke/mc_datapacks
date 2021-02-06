@@ -1,0 +1,23 @@
+{
+    "type": "productivebees:centrifuge",
+    "ingredient": {
+        "item": "productivebees:configurable_honeycomb"
+    },
+    "comb_type": "productivebees:clay",
+    "outputs": [
+        {
+            "item": {
+                "item": "minecraft:clay_ball"
+            },
+            "min": 1,
+            "max": 4,
+            "chance": 100
+        },
+        {
+            "fluid": {
+                "fluid": "productivebees:honey"
+            },
+            "amount": 0
+        }
+    ]
+}
