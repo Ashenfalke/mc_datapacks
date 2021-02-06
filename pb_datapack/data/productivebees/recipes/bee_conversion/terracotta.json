@@ -1,6 +1,6 @@
 {
     "type": "productivebees:bee_conversion",
-    "source": "productivebees:slimy_bee",
+    "source": "productivebees:slimy",
     "result": "productivebees:terracotta",
     "item": {
         "item": "minecraft:blaze_rod"
