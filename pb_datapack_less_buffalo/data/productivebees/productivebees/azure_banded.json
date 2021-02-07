@@ -1,9 +1,15 @@
 {
     "primaryColor": "#2ca3fc",
-    "secondaryColor": "#2ca3fc",
+    "secondaryColor": "#006080",
     "particleColor": "#2ca3fc",
     "name": "GMO Blue Bee™",
     "description": "Can be found living inside holes in trees.",
-    "beeTexture": "productivebees:textures/entity/bee/blue_banded/bee",
-    "createComb": false
+    "size:": 0.7,
+    "createComb": false,
+    "nestingPreference": "productivebees:nests/wood_nests",
+    "flowerTag": "productivebees:flowers/river_flowers",
+    "attributes": {
+        "temper": 0,
+        "type": "solitary"
+    }
 }
