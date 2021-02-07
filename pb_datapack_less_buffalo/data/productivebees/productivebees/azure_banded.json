@@ -1,0 +1,9 @@
+{
+    "primaryColor": "#2ca3fc",
+    "secondaryColor": "#2ca3fc",
+    "particleColor": "#2ca3fc",
+    "name": "GMO Blue Bee™",
+    "description": "Can be found living inside holes in trees.",
+    "beeTexture": "productivebees:textures/entity/bee/blue_banded/bee",
+    "createComb": false
+}
