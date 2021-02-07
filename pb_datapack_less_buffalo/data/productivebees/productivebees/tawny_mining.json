@@ -1,0 +1,13 @@
+{
+    "primaryColor": "#a14545",
+    "secondaryColor": "#943743",
+    "particleColor": "#744743",
+    "description": "A slightly more territorial mining bee. Prefers dirt, gravel and sand nests.",
+    "size:": 0.7,
+    "createComb": false,
+    "nestingPreference": "productivebees:nests/ashy_nests",
+    "attributes": {
+        "temper": 1,
+        "type": "solitary"
+    }
+}
