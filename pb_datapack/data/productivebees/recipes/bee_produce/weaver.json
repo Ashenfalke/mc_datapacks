@@ -1,0 +1,11 @@
+{
+    "type": "productivebees:advanced_beehive",
+    "ingredient": "productivebees:weaver",
+    "results": [
+        {
+            "item": {
+                "item": "productivebees:configurable_honeycomb"
+            }
+        }
+    ]
+}

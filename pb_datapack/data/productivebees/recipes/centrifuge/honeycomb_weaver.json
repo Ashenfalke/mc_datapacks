@@ -3,13 +3,13 @@
     "ingredient": {
         "item": "productivebees:configurable_honeycomb"
     },
-    "comb_type": "productivebees:clay",
+    "comb_type": "productivebees:weaver",
     "outputs": [
         {
             "item": {
-                "item": "minecraft:clay_ball"
+                "item": "minecraft:string"
             },
-            "chance": 100
+            "chance": 75
         },
         {
             "fluid": {
