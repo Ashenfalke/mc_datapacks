@@ -8,8 +8,7 @@
         {
             "item": {
                 "item": "minecraft:clay_ball"
-            },
-            "chance": 100
+            }
         },
         {
             "fluid": {

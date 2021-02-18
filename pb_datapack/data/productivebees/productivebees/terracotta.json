@@ -10,9 +10,6 @@
     "fireproof": true,
     "attributes": {
         "temper": 0,
-        "endurance": 0,
-        "behavior": 1,
-        "productivity": 1,
-        "weather_tolerance": 1
+        "endurance": 0
     }
 }

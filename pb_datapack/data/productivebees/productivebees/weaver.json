@@ -2,14 +2,12 @@
     "primaryColor": "#ffc0cb",
     "secondaryColor": "#f87d7c",
     "particleColor": "#ffc0cb",
-    "description": "While this bee can't spin wool into gold, it has the helpful talent of spinning wool into string",
-    "createComb": true,
+    "description": "Perfectly periwinkle.",
+    "createComb": false,
     "name": "Sigourney",
-    "flowerTag": "minecraft:wool",
+    "flowerTag": "minecraft:flowers",
     "size:": 0.5,
     "attributes": {
-        "temper": 0,
-        "endurance": 0,
-        "behavior": 1
+        "temper": 0
     }
 }
