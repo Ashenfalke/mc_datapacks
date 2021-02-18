@@ -5,7 +5,7 @@
     "description": "Often found reading by the light of a lantern or torch, the Biblio bee loves to read such that a stack of books can be found in its hive!",
     "createComb": false,
     "flowerTag": "productivebees:flowers/biblio",
-    "size:": 0.45,
+    "size": 0.55,
     "munchies": true,
     "teleporting": false,
     "attributes": {
