@@ -5,7 +5,7 @@
     "description": "This bee prefers to cultivate clays. It adores bright pottery.",
     "createComb": true,
     "flowerTag": "productivebees:flowers/pottery",
-    "size:": 0.6,
+    "size": 0.65,
     "attributes": {
         "temper": 1,
         "endurance": 2,

@@ -4,7 +4,7 @@
     "particleColor": "#2ca3fc",
     "name": "GMO Blue Bee™",
     "description": "Can be found living inside holes in trees.",
-    "size:": 0.7,
+    "size": 0.7,
     "createComb": false,
     "nestingPreference": "productivebees:nests/wood_nests",
     "flowerTag": "productivebees:flowers/river_flowers",

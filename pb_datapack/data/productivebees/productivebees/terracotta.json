@@ -6,7 +6,7 @@
     "description": "This fragile bee prefers to cultivate clays. It adores bright pottery.",
     "createComb": false,
     "flowerTag": "productivebees:flowers/pottery",
-    "size:": 0.5,
+    "size": 0.55,
     "fireproof": true,
     "attributes": {
         "temper": 0,
