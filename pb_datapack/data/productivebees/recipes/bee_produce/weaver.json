@@ -4,8 +4,15 @@
     "results": [
         {
             "item": {
-                "item": "productivebees:configurable_honeycomb"
-            }
+                "item": "minecraft:honeycomb"
+            },
+            "chance": 100
+        },
+        {
+            "item": {
+                "item": "minecraft:pink_dye"
+            },
+            "chance": 1
         }
     ]
 }

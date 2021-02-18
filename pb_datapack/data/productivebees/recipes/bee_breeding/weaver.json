@@ -1,13 +1,13 @@
 {
     "type": "productivebees:bee_breeding",
-    "parent1": "productivebees:rancher_bee",
-    "parent2": "productivebees:reed_bee",
+    "parent1": "productivebees:dye_bee",
+    "parent2": "productivebees:tawny_mining",
     "offspring": [
         "productivebees:weaver"
     ],
     "breeding_items": [
         {
-            "item": "#minecraft:wool"
+            "item": "minecraft:pink_dye"
         }
     ]
 }

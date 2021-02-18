@@ -1,18 +1,8 @@
 {
-    "type": "productivebees:bee_spawning",
-    "ingredient": {
-        "item": "productivebees:coarse_dirt_nest"
-    },
+    "replace": false,
     "results": [
         {
             "bee": "productivebees:tawny_mining"
-        },
-        {
-            "bee": "productivebees:chocolate_mining_bee"
-        },
-        {
-            "bee": "productivebees:leafcutter_bee"
         }
-    ],
-    "repopulation_cooldown": 24000
+    ]
 }

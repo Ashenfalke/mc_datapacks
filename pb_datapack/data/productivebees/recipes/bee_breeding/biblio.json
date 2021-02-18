@@ -1,6 +1,6 @@
 {
     "type": "productivebees:bee_breeding",
-    "parent1": "productivebees:resin_bee",
+    "parent1": "productivebees:silky",
     "parent2": "productivebees:reed_bee",
     "offspring": [
         "productivebees:biblio"

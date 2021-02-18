@@ -1,15 +1,8 @@
 {
-    "type": "productivebees:bee_spawning",
-    "ingredient": {
-        "item": "productivebees:sand_nest"
-    },
+    "replace": false,
     "results": [
         {
             "bee": "productivebees:tawny_mining"
-        },
-        {
-            "bee": "productivebees:chocolate_mining_bee"
         }
-    ],
-    "repopulation_cooldown": 24000
+    ]
 }
