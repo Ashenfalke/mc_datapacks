@@ -1,5 +1,9 @@
 {
     "replace": false,
+    "type": "productivebees:bee_spawning_big",
+    "ingredient": {
+        "item": "productivebees:acacia_wood_nest"
+    },
     "results": [
         {
             "bee": "productivebees:azure_banded"
